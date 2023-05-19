@@ -7,7 +7,8 @@
 ## Process Overview
 ![process overview image](./figures/Methodology.png)
 
-
+## Google Collab
+https://colab.research.google.com/drive/1aEedv7irA7iNf7eD1bhhPe_nko4VWz3n?usp=sharing
 ## Installation
 ~~see [INSTALL.md](./INSTALL.md) for the installation~~
 we will add INSTALL.md soon.
